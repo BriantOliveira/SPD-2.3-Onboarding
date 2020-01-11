@@ -9,7 +9,6 @@ The course also covers topics one must master to have a successful life as a wor
 ## Prerequisites:  
 
 None
-<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ## Learning Outcomes
 
