@@ -30,7 +30,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tue, January 21              | [Personal Finance 101 & Goal Setting] |
+|  1 |  Tue, January 21              | [Personal Finance 101 & Goal Setting]{target="_blank"} |
 |  - |  Thu, January 23              | **NO CLASS** - Company Offsite |
 |  2 |  Tue, January 28              | [Sleep & Relaxation] |
 |  3 |  Thu, January 30              | [Investing & Saving] |
